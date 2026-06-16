@@ -1,0 +1,6 @@
+{
+  "name": "Lumora",
+  "description": "The AAA-Rated Interactive Academy for Mastering Prompt Engineering & AI Systems Craft",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
