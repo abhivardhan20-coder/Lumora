@@ -87,32 +87,10 @@ textlumora/
 └── README.md
 
 🔌 API Endpoints
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-MethodEndpointDescriptionPOST/api/crucibleStream prompt responses from GeminiPOST/api/oracleGet guidance from the Oracle mentorPOST/api/evaluateScore a prompt + output (LLM-as-Judge)
+Method,Endpoint,Description
+POST,/api/crucible,Stream prompt responses from Gemini
+POST,/api/oracle,Get guidance from the Oracle mentor
+POST,/api/evaluate,Score a prompt + output (LLM-as-Judge)
 
 🎮 How to Use
 
